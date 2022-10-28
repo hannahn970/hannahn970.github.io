@@ -1,0 +1,112 @@
+.header {
+    background-color: #e3f2fd;
+    font-size: 2rem;
+}
+
+.bio {
+    margin: 15px;
+    text-align: center;
+    text-align: justify;
+}
+
+.bio_header {
+    text-align: center;
+    margin-top: 20px;
+}
+img {
+    margin: 15px;
+}
+
+video {
+    margin: 15px;
+}
+
+audio {
+    margin: 15px;
+}
+
+button {
+    margin-top: 65px;
+    margin-bottom: 35px;
+}
+
+button:hover {
+    border: 7px solid #e3f2fd;
+  }
+
+a:hover{
+    background-color:#d3e9ff;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.flexbox-container-nowrap {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.hobby {
+    margin: 15px;
+    text-align: center;
+    text-align: justify;
+    text-shadow: -5px -5px #e3f2fd;
+    color: black;
+    font-weight: bold;
+}
+
+.background {
+    background-color: #e3f2fd;
+    height: 300;
+    width: 300;
+    margin: 75px;
+}
+
+.MDT {
+    background-image: url('MDT.jpg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #e3f2fd;
+}
+
+.wavegate {
+    background-image: url('wavegate.jpg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #e3f2fd;
+}
+
+.UofR {
+    background-image: url('UofR.jpg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #e3f2fd;
+}
+
+.LATech {
+    background-image: url('LATech.jpg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #e3f2fd;
+}
+
+.MS {
+    background-image: url('MS.jpg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #e3f2fd;
+}
